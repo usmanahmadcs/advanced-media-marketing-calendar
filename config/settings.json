@@ -1,0 +1,101 @@
+
+{
+  "company": {
+    "name": "Advanced Media Trading LLC",
+    "instagram_username": "advancedmedia.ae",
+    "instagram_profile_url": "https://www.instagram.com/advancedmedia.ae/"
+  },
+  "countries": [
+    "UAE",
+    "Global",
+    "US"
+  ],
+  "calendar": {
+    "years_ahead": 2,
+    "include_current_year": true,
+    "refresh_interval_hours": 24
+  },
+  "instagram": {
+    "refresh_interval_hours": 24,
+    "historical_lookback": "max_authorized",
+    "matching_confidence_threshold": 0.55
+  },
+  "reminders": {
+    "check_interval_hours": 24,
+    "delivery_channel": "google_calendar",
+    "default_lead_days_by_priority": {
+      "Critical": 10,
+      "High": 7,
+      "Medium": 3,
+      "Low": 1
+    },
+    "special_day_overrides": {
+      "Mother's Day (UAE/Arab World)": 10,
+      "Mother's Day (US/UK)": 10,
+      "Father's Day": 5
+    }
+  },
+  "priority_scoring": {
+    "weights": {
+      "business_relevance": 0.30,
+      "audience_relevance": 0.20,
+      "historical_engagement": 0.15,
+      "campaign_opportunity": 0.20,
+      "regional_relevance": 0.15
+    },
+    "thresholds": {
+      "Critical": 85,
+      "High": 65,
+      "Medium": 40,
+      "Low": 0
+    },
+    "manual_overrides": {
+      "Mother's Day (UAE/Arab World)": {
+        "priority": "High",
+        "reason": "Manual business rule: Mother's Day must always outrank Father's Day."
+      },
+      "Mother's Day (US/UK)": {
+        "priority": "High",
+        "reason": "Manual business rule: Mother's Day must always outrank Father's Day."
+      },
+      "Father's Day": {
+        "priority": "Medium",
+        "reason": "Manual business rule: default priority per project spec."
+      },
+      "International Women's Day": {
+        "priority": "High",
+        "reason": "Default example from project spec."
+      },
+      "UAE National Day": {
+        "priority": "Critical",
+        "reason": "Core national identity event; high UAE audience relevance and campaign history."
+      },
+      "UAE National Day (Day 2)": {
+        "priority": "High",
+        "reason": "Extension of UAE National Day observance."
+      },
+      "Valentine's Day": {
+        "priority": "High",
+        "reason": "Default example from project spec: strong commercial campaign opportunity."
+      },
+      "Labour Day": {
+        "priority": "Medium",
+        "reason": "Default example from project spec."
+      },
+      "World Teachers' Day": {
+        "priority": "Medium",
+        "reason": "Default example from project spec."
+      }
+    },
+    "default_low_priority_categories": [
+      "International"
+    ]
+  },
+  "excel": {
+    "output_path": "outputs/Advanced_Media_Special_Days_Marketing_Calendar.xlsx",
+    "workbook_title": "Advanced Media Trading LLC - Special Days & Instagram Marketing Calendar"
+  },
+  "database": {
+    "path": "outputs/marketing_calendar.db"
+  }
+}

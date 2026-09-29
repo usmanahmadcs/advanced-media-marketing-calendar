@@ -1,0 +1,309 @@
+[
+  {
+    "name": "New Year's Day",
+    "category": "International",
+    "country": "Global",
+    "month": 1, "day": 1,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "Public Holiday Calendar",
+    "source_url": "https://publicholidays.ae/"
+  },
+  {
+    "name": "International Women's Day",
+    "category": "International",
+    "country": "Global",
+    "month": 3, "day": 8,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "United Nations",
+    "source_url": "https://www.un.org/en/observances/womens-day"
+  },
+  {
+    "name": "Mother's Day (UAE/Arab World)",
+    "category": "Family",
+    "country": "UAE",
+    "month": 3, "day": 21,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "Regional Observance Calendar",
+    "source_url": "https://publicholidays.ae/"
+  },
+  {
+    "name": "Mother's Day (US/UK)",
+    "category": "Family",
+    "country": "US",
+    "month": null, "day": null,
+    "date_type": "variable_rule",
+    "rule": "second_sunday_of_may",
+    "verification_status": "Confirmed",
+    "source": "US Calendar Observances",
+    "source_url": "https://www.timeanddate.com/holidays/us/mothers-day"
+  },
+  {
+    "name": "Father's Day",
+    "category": "Family",
+    "country": "Global",
+    "month": null, "day": null,
+    "date_type": "variable_rule",
+    "rule": "third_sunday_of_june",
+    "verification_status": "Confirmed",
+    "source": "International Calendar Observances",
+    "source_url": "https://www.timeanddate.com/holidays/us/fathers-day"
+  },
+  {
+    "name": "Parents' Day",
+    "category": "Family",
+    "country": "Global",
+    "month": 7, "day": 26,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "United Nations",
+    "source_url": "https://www.un.org/en/observances/parents-day"
+  },
+  {
+    "name": "International Children's Day",
+    "category": "International",
+    "country": "Global",
+    "month": 6, "day": 1,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "United Nations",
+    "source_url": "https://www.un.org/en/observances/children-day"
+  },
+  {
+    "name": "Labour Day",
+    "category": "Professional",
+    "country": "UAE",
+    "month": 5, "day": 1,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "UAE Government Holidays",
+    "source_url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "name": "World Teachers' Day",
+    "category": "Professional",
+    "country": "Global",
+    "month": 10, "day": 5,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "UNESCO",
+    "source_url": "https://www.un.org/en/observances/teachers-day"
+  },
+  {
+    "name": "Doctors' Day (UAE)",
+    "category": "Professional",
+    "country": "UAE",
+    "month": 3, "day": 30,
+    "date_type": "fixed",
+    "verification_status": "Provisional",
+    "source": "Regional Observance Calendar",
+    "source_url": "https://publicholidays.ae/"
+  },
+  {
+    "name": "UAE Commemoration Day",
+    "category": "UAE Holiday",
+    "country": "UAE",
+    "month": 12, "day": 1,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "UAE Government Holidays",
+    "source_url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "name": "UAE National Day",
+    "category": "UAE Holiday",
+    "country": "UAE",
+    "month": 12, "day": 2,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "UAE Government Holidays",
+    "source_url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "name": "UAE National Day (Day 2)",
+    "category": "UAE Holiday",
+    "country": "UAE",
+    "month": 12, "day": 3,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "UAE Government Holidays",
+    "source_url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "name": "Eid al-Fitr",
+    "category": "Religious",
+    "country": "UAE",
+    "month": null, "day": null,
+    "date_type": "lunar_estimated",
+    "verification_status": "Provisional",
+    "source": "Islamic Lunar Calendar (subject to moon sighting)",
+    "source_url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays",
+    "notes": "Exact date depends on official UAE moon-sighting announcement. Estimated date pending confirmation each year."
+  },
+  {
+    "name": "Eid al-Adha",
+    "category": "Religious",
+    "country": "UAE",
+    "month": null, "day": null,
+    "date_type": "lunar_estimated",
+    "verification_status": "Provisional",
+    "source": "Islamic Lunar Calendar (subject to moon sighting)",
+    "source_url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays",
+    "notes": "Exact date depends on official UAE moon-sighting announcement. Estimated date pending confirmation each year."
+  },
+  {
+    "name": "Start of Ramadan",
+    "category": "Religious",
+    "country": "UAE",
+    "month": null, "day": null,
+    "date_type": "lunar_estimated",
+    "verification_status": "Provisional",
+    "source": "Islamic Lunar Calendar (subject to moon sighting)",
+    "source_url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays",
+    "notes": "Estimated date; confirm annually via UAE Moon Sighting Committee."
+  },
+  {
+    "name": "Islamic New Year",
+    "category": "Religious",
+    "country": "UAE",
+    "month": null, "day": null,
+    "date_type": "lunar_estimated",
+    "verification_status": "Provisional",
+    "source": "Islamic Lunar Calendar",
+    "source_url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "name": "Prophet Muhammad's Birthday",
+    "category": "Religious",
+    "country": "UAE",
+    "month": null, "day": null,
+    "date_type": "lunar_estimated",
+    "verification_status": "Provisional",
+    "source": "Islamic Lunar Calendar",
+    "source_url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "name": "Christmas Day",
+    "category": "Religious",
+    "country": "Global",
+    "month": 12, "day": 25,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "Public Holiday Calendar",
+    "source_url": "https://publicholidays.ae/"
+  },
+  {
+    "name": "Valentine's Day",
+    "category": "Commercial",
+    "country": "Global",
+    "month": 2, "day": 14,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "Commercial Calendar",
+    "source_url": "https://www.timeanddate.com/holidays/us/valentine-s-day"
+  },
+  {
+    "name": "Black Friday",
+    "category": "Commercial",
+    "country": "Global",
+    "month": null, "day": null,
+    "date_type": "variable_rule",
+    "rule": "friday_after_us_thanksgiving",
+    "verification_status": "Confirmed",
+    "source": "Commercial Calendar",
+    "source_url": "https://www.timeanddate.com/holidays/us/black-friday"
+  },
+  {
+    "name": "Cyber Monday",
+    "category": "Commercial",
+    "country": "Global",
+    "month": null, "day": null,
+    "date_type": "variable_rule",
+    "rule": "monday_after_black_friday",
+    "verification_status": "Confirmed",
+    "source": "Commercial Calendar",
+    "source_url": "https://www.timeanddate.com/holidays/us/cyber-monday"
+  },
+  {
+    "name": "International Men's Day",
+    "category": "International",
+    "country": "Global",
+    "month": 11, "day": 19,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "International Observance Calendar",
+    "source_url": "https://www.un.org/en/observances"
+  },
+  {
+    "name": "World Health Day",
+    "category": "International",
+    "country": "Global",
+    "month": 4, "day": 7,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "World Health Organization",
+    "source_url": "https://www.who.int/campaigns/world-health-day"
+  },
+  {
+    "name": "World Environment Day",
+    "category": "International",
+    "country": "Global",
+    "month": 6, "day": 5,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "United Nations",
+    "source_url": "https://www.un.org/en/observances/environment-day"
+  },
+  {
+    "name": "Back to School Season",
+    "category": "Commercial",
+    "country": "UAE",
+    "month": 9, "day": 1,
+    "date_type": "fixed",
+    "verification_status": "Provisional",
+    "source": "Regional Commercial Calendar",
+    "source_url": "https://publicholidays.ae/"
+  },
+  {
+    "name": "Dubai Shopping Festival (Start)",
+    "category": "Commercial",
+    "country": "UAE",
+    "month": 12, "day": 6,
+    "date_type": "fixed",
+    "verification_status": "Provisional",
+    "source": "Dubai Festivals and Retail Establishment",
+    "source_url": "https://www.dubaicalendar.com/"
+  },
+  {
+    "name": "UAE Flag Day",
+    "category": "UAE Holiday",
+    "country": "UAE",
+    "month": 11, "day": 3,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "UAE Government Holidays",
+    "source_url": "https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays"
+  },
+  {
+    "name": "International Youth Day",
+    "category": "International",
+    "country": "Global",
+    "month": 8, "day": 12,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "United Nations",
+    "source_url": "https://www.un.org/en/observances/youth-day"
+  },
+  {
+    "name": "World Kindness Day",
+    "category": "International",
+    "country": "Global",
+    "month": 11, "day": 13,
+    "date_type": "fixed",
+    "verification_status": "Confirmed",
+    "source": "International Observance Calendar",
+    "source_url": "https://www.worldkindnessday.org/"
+  }
+]
